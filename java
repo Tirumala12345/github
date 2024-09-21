@@ -1,6 +1,5 @@
 Java Full Stack
-Angular
-Html css
-Spring Boot
 Core Java
+Angular
+Tomcat
 Maven
